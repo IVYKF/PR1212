@@ -1,0 +1,8 @@
+def greaterThan(x, y):
+    return x > y
+
+a = 2
+b = 3 
+result = greaterThan(a, b)
+
+print("The statement", str(a), "is greater than variable", str(b), "is", str(result) + "."
